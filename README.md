@@ -3,6 +3,7 @@
 A statistical modeling and data analysis project built in SAS Enterprise Guide. This project cleans, explores, and models lifestyle and demographic factors to identify key predictors of obesity levels and derive actionable healthcare insights.
 
 **📌 Project Overview**
+
 Using a dataset of 2,111 records and 17 attributes, this project investigates how eating habits, physical condition, and genetic predisposition contribute to body mass variance. Through hypothesis testing and regression modeling, key lifestyle predictors were identified to inform preventive healthcare strategies.
 
 **⭐ Highlights**
