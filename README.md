@@ -1,12 +1,12 @@
 # Obesity Healthcare Dataset Analysis & Prediction Model
 
-**📌 Project Overview**
+## **📌 Project Overview**
 
 A statistical modeling and data analysis project built in SAS Enterprise Guide. This project cleans, explores, and models lifestyle and demographic factors to identify key predictors of obesity levels and derive actionable healthcare insights.
 
 Using a dataset of 2,111 records and 17 attributes, this project investigates how eating habits, physical condition, and genetic predisposition contribute to body mass variance. Through hypothesis testing and regression modeling, key lifestyle predictors were identified to inform preventive healthcare strategies.
 
-**⭐ Highlights**
+## **⭐ Highlights**
 
 Cleaning & Preprocessing: Executed data quality checks, recoding, and baseline metric creation across 17 attributes in SAS.
 
@@ -14,7 +14,7 @@ Hypothesis Testing: Conducted two-sample $t$-tests and Analysis of Variance (ANO
 
 Predictive Modeling: Built a Multiple Linear Regression model achieving an $R^2$ of 49.87%.Healthcare Insights: Identified family history of overweightness and high-calorie food consumption (FAVC) as dominant predictors, translating findings into practical lifestyle recommendations.
 
-**📊 Methodology & Analytical Workflow**
+## **📊 Methodology & Analytical Workflow**
 
 Descriptive Statistics: Summary metrics and frequency distributions across demographic and lifestyle attributes.
 
@@ -24,11 +24,11 @@ One-Way ANOVA: Assessing variations across different levels of physical activity
 
 Multiple Linear Regression: Quantifying the target weight/BMI variance driven by combination predictors ($R^2 = 0.4987$).
 
-## 📄 View Project Outputs & Report
+## **📄 View Project Outputs & Report**
 
 💡 **Note for Reviewers:** Since SAS Enterprise Guide requires a proprietary license to open `.egp` files, you can view the complete statistical outputs, process flows, and comprehensive analytical findings in the **Obesity Healthcare Dataset Analysis & Prediction Model-Report** included in this repository.
 
-**👥 Project Context & Team Roles**
+## **👥 Project Context & Team Roles**
 
 This project was developed as a collaborative coursework assignment at **Sunway University**. 
 
@@ -39,6 +39,6 @@ This project was developed as a collaborative coursework assignment at **Sunway 
 * **Teammate Contributions:**
   * Collaborated on literature review, initial problem formulation, translating the statistical output into lifestyle recommendation and final report compilation.
 
-**📜 Citation & Reference**
+## **📜 Citation & Reference**
 
 Data Source: Palechor, F. M., & de la Hoz Manotas, A. (2019). Estimation of obesity levels based on eating habits and physical condition. UCI Machine Learning Repository. https://doi.org/10.24432/C58S10
