@@ -24,6 +24,10 @@ One-Way ANOVA: Assessing variations across different levels of physical activity
 
 Multiple Linear Regression: Quantifying the target weight/BMI variance driven by combination predictors ($R^2 = 0.4987$).
 
+## 📄 View Project Outputs & Report
+
+💡 **Note for Reviewers:** Since SAS Enterprise Guide requires a proprietary license to open `.egp` files, you can view the complete statistical outputs, process flows, and comprehensive analytical findings in the **Obesity Healthcare Dataset Analysis & Prediction Model-Report** included in this repository.
+
 **👥 Project Context & Team Roles**
 
 This project was developed as a collaborative coursework assignment at **Sunway University**. 
